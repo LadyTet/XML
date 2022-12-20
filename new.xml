@@ -1,5 +1,8 @@
-<head> 
-<body>
-
-/<body>
-/<head>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Information about me</title>
+</head>
+  <body>
+      <h1> My favorite film is Avatar <h1>
+  /<body>      
