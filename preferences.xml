@@ -1,7 +1,7 @@
-<?xml version ="1" encoding = "UTF -8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Preferences>
-<Favorite_movie> Avatar </Favorite_movie>, 
-<Favorite_TV_serials>House of Dragon </Favorite_TV_serials> 
-<Favorite_season>Summer</Favorite_season>
-<Favorite_food>Seafood and cheese</Favorite_food> 
+   <Favorite_movie>Avatar</Favorite_movie>
+   <Favorite_TV_serials>House of Dragon</Favorite_TV_serials>
+   <Favorite_season>Summer</Favorite_season>
+   <Favorite_food>Seafood and cheese</Favorite_food>
 </Preferences>
