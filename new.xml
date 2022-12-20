@@ -1,8 +1,7 @@
-<html>
-<head>
-    <meta charset="UTF-8">
-    <title>Information about me</title>
-</head>
-  <body>
-      <h1> My favorite film is Avatar <h1>
-  /<body>      
+ <?xml version="1.0" encoding="UTF-8"?>
+<INFO>
+   <FIO>Zhyrova Tetiana Dmytrivna</FIO>
+   <Age>38</Age>
+   <Pets>0</Pets>
+   <Salary>1000000</Salary>
+</INFO>
